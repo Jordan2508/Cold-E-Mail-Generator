@@ -1,1 +1,1 @@
-# Cold-E-Mail-Generator
+A Cold Email Generator built for service-based companies using Groq, LangChain, and Streamlit. Users can enter the URL of a company’s careers page, and the app automatically extracts job openings. It then creates personalized cold emails enriched with relevant portfolio links pulled from a vector database, matched to each job’s description.
